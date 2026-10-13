@@ -1,0 +1,5 @@
+{
+  "stackName": "aws-global-accelerator-network-use2-stack",
+  "templateFile": "cloudformation/template.yaml",
+  "parameterFile": "cloudformation/parameters-use2.json"
+}
